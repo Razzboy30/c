@@ -39,16 +39,6 @@ int main(){
             printf("You lose");
         }
         
-        //  else if(guesses == out){
-        //     printf("You Lose");
-        // }
-
-        // if (guesses == out){
-        //     printf("You Lose");
-        //     break;
-        // } else{
-        //     printf("You have %d guesses left\n", guesses);
-        // }
     }
-    // printf("You lose");
+    
 }
