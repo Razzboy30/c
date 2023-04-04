@@ -44,9 +44,9 @@
 //pushing an element manually
  s->arr[0]=4;
  s->top++;
- for (int i = 0; i<=top; i++)
+ for (int i = 0; i<=8; i++) //replace 8 with top
  {
-  printf("%d",s[i] )
+  printf("%d",s[i] );
  }
  
 
